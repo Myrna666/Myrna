@@ -1,1 +1,3 @@
-# Myrna
+machine learning
+deep learning
+MATLAB
